@@ -1,0 +1,1 @@
+print ("Привет GitHub! Меня зовут Aiko Rose!")
